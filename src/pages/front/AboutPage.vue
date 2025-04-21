@@ -42,7 +42,7 @@
                     .col-12.col-md-8.q-pl-md-xl
                       .column
                         .col.text-h6.bg-warning.text-center.q-mb-md(style="border-radius: 16px") 節目背景
-                        .col.text-subtitle1.text-justify.text-indent.q-mx-md {{ abouts[1].intro }}
+                        .col.text-subtitle1.text-justify.text-indent.q-mx-md {{ about.intro }}
                         .col.q-mt-xl
                           .text-h6.bg-warning.text-center.q-mb-md(style="border-radius: 16px") 播出資訊
                           .row.q-mx-md
@@ -68,7 +68,7 @@
                                 span {{ ott }} &nbsp;&nbsp;
                   .q-mt-xl
                     .text-h6.bg-warning.text-center.q-mb-md(style="border-radius: 16px") 節目介紹
-                    p.text-subtitle1.q-mx-md {{ abouts[1].info.description }}
+                    p.text-subtitle1.q-mx-md {{ about.info.description }}
               q-tab-panel(:name="getTabName(abouts.length + 1)")
                 .text-h6(align="center") 地球勇士探險 ING
 

@@ -7,8 +7,8 @@ q-page
       q-icon(name='keyboard_arrow_down' size='50px')
 
   section#text.row.flex-center
-    .text-subtitle1.text-justify.q-mb-md(data-aos='zoom-in') 在地球看不到的月球背面，有個玉皇大帝經營的休息站，休息站最熱門的商店"宇宙年糕店"，宇宙年糕店中有銷售一等的功臣 — 兔瓏，因為受不了頻繁的加班，因此興起了逃往地球的念頭。
-    .text-subtitle1.text-justify(data-aos='zoom-in' data-aos-offset="200") 發現兔瓏寫了辭職信逃往地球的玉皇大帝震怒，下令抓到兔瓏的人將給予豐厚的獎金。為了得到豐厚的獎金，由四位來自平行宇宙地球的勇士就這樣出動了...
+    .text-subtitle1.text-justify.q-mb-md(data-aos='zoom-in') 四位地球戰士再次參與抓捕兔瓏的行動，兔瓏偷走了玉皇大帝的公司卡並逃往地球！
+    .text-subtitle1.text-justify(data-aos='zoom-in' data-aos-offset="200") 強力新幫手『特工F』登場，助地球勇士一臂之力！第三次史詩般的旅程在「阿布達比」的金色沙漠和浪漫的「葡萄牙」展開！
 
   //- section.row#info.q-pa-xl(data-aos='fade-up')
     //- .row
